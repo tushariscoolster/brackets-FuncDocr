@@ -1,5 +1,7 @@
 {
     "tags": {
+    	"description": "@description [[Description]]",
+          "name": "@name [[Description]]",
         "link": "{@link [[Link]] [[Description]]}",
         "param": "@param {[[Type]]} [[Description]]",
         "returns": "@returns {[[Type]]} [[Description]]"
